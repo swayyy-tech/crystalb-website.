@@ -14,6 +14,11 @@
 </head>
 <body class="bg-white text-gray-900">
 
+<meta name="description" content="Join the Crystal B Inner Circle for exclusive access to my flagship ebook and monthly growth guides.">
+<meta property="og:title" content="Crystal B | Ebook & Membership">
+<meta property="og:image" content="link-to-your-social-preview-image.jpg">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
     <nav class="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100">
         <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
             <div class="brand text-2xl font-bold tracking-tight">CRYSTAL B.</div>
